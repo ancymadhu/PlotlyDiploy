@@ -35,9 +35,12 @@ III. Creating a bubble chart that displays each sample:
 * Use otu_ids for the marker colors.
 * Use otu_labels for the text values.
 
+![4](https://user-images.githubusercontent.com/73450637/105662665-4c20e500-5e9e-11eb-9c1c-a04b5efcf732.png)
 
 IV. Adapt the gauge chart from Plotly documentation to plot the weekly washing frequency of the individual.
 
 * Modify the example gauge code to account for values ranging from 0 through 9.
 * Update the chart whenever a new sample is selected.
+
+
 
