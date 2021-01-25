@@ -23,7 +23,7 @@ I. When an individual’s ID is selected, the top 10 bacterial species (OTUs) sh
 
 ![1](https://user-images.githubusercontent.com/73450637/105662484-d3218d80-5e9d-11eb-8f48-141cfb276f36.png)
 
-II> In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data.
+II. In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data.
 
 ![3](https://user-images.githubusercontent.com/73450637/105662562-049a5900-5e9e-11eb-9420-bac797cafb4a.png)
 
