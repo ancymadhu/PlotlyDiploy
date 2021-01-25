@@ -42,5 +42,7 @@ IV. Adapt the gauge chart from Plotly documentation to plot the weekly washing f
 * Modify the example gauge code to account for values ranging from 0 through 9.
 * Update the chart whenever a new sample is selected.
 
+![2](https://user-images.githubusercontent.com/73450637/105662703-65c22c80-5e9e-11eb-869b-d3e0202615bc.png)
+
 
 
